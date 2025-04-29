@@ -1,17 +1,15 @@
 <h1 align="center">hey there 👋</h1>
 
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/igor-josé-martins/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/igor_josemartins/" target="_blank" style="text-decoration: none"> 
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igor-jos%C3%A9-martins/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/igor_josemartins/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:igorjosemartins01@gmail.com)
+
 </div>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
