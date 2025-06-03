@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Igor Martins from Florianópolis, Santa Catarina, Brazil<br><br>- 🔭 I’m working as a Full-Stack Web Developer at iBridge Technology<br>- 📚 I'm currently learning DSA, LLMs and AI integration</p>
+<p align="left">I'm Igor Martins from Florianópolis, Santa Catarina, Brazil<br><br>- 🔭 I’m working as a Chatbot Developer at DigitalBot<br>- 📚 I'm currently learning DSA, LLMs and AI integration</p>
 
 ###
 
